@@ -1,3 +1,4 @@
 # hello-world
-Coding Experience&amp;Ideas.
-💡Klingon-Chinese Translator💡
+Marking-down some coding experience&amp;Ideas.
+💡Klingon-Chinese Translator💡!
+MAKE IT REAL!!!
