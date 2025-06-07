@@ -1,2 +1,3 @@
 # hello-world
-Coding Experience&amp;Ideas
+Coding Experience&amp;Ideas.
+💡Klingon-Chinese Translator💡
